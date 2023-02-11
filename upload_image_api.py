@@ -15,7 +15,7 @@ def post_to_api(api_key, image):
     else:
         return None
 
-api_key = "625aaa91180247597169bf4e14b3f10a"
+api_key = "api key here"
 image = "R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
 
 result = post_to_api(api_key, image)
